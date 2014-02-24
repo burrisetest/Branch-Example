@@ -1,0 +1,3 @@
+When you switch branches, the files in the working directory change to match those of the branch.
+
+Current date and time:
